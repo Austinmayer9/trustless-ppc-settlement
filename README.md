@@ -4,7 +4,7 @@
 ![Stack](https://img.shields.io/badge/Stack-Next.js_|_Prisma_|_XRPL-blue)
 
 ## Overview
-I run an AI SEO agency, and I needed a way to automate "Pay-Per-Close" billing without relying on manual invoices or trusting clients to pay after the fact.
+I run an AI SEO agency (aiseosolutions.co), and I needed a way to automate "Pay-Per-Close" billing without relying on manual invoices or trusting clients to pay after the fact.
 
 This project is a settlement layer that locks client funds in a cryptographic escrow on the **XRP Ledger**. The funds are programmatically released only when my AI agent verifies a specific conversion event (e.g., a "Closed-Won" lead in the CRM).
 
